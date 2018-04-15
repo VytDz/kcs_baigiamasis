@@ -11,10 +11,15 @@
 /*======================Header Atributes======================  */
 body{
   position: relative;
+  background-image: url("../images/bg1.png");
+  background-repeat: repeat-x repeat-y;
 }
 .header-atr{
-    position: fixed;
-}
+    background-image: url("../images/bg2.png");
+    background-repeat: repeat-x repeat-y;
+    position: sticky;
+    z-index: 1020;
+  }
 
 .height-60{
   height: 60px;
@@ -34,13 +39,24 @@ body{
 }
 
 nav ul{
+  style: inline-block;
+  color: #c0d8af;
   list-style-type: none;
+  font-family: "Gugi", cursive;
 }
 
 .logo{
   display: block;
-  height:30px;
+  height:20px;
   font-family: "Gugi", cursive;
+  color: #c0d8af;
   }
 
 /* ===============END Header attributes============================= */
+
+
+/* =============== main attributes ================================= */
+
+.top-pics{
+  height: auto;
+  }
