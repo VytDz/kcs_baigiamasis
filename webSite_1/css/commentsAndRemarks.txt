@@ -5,3 +5,4 @@ Use the following CSS rules to specify these families:
 font-family: 'PT Mono', monospace;
 font-family: 'PT Serif', serif;
 font-family: 'Open Sans', sans-serif;
+font-family: 'Gugi', cursive;
