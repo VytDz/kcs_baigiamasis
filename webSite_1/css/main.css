@@ -1,12 +1,39 @@
+/*=====================Global attributes===========================*/
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/*==============================================================*/
+
+
+/*======================Header Atributes======================  */
+
 .header-atr{
     position: relative;
+}
+
+.height-60{
+  height: 60px;
 }
 .nav-main{
     position: static;
 }
-.search-bar{
 
+
+.search-bar{
+  height: 24px;
+  border: 0;
 }
+
+
 .menu{
-    display: inline;
+
+  }
+
+nav ul{
+  list-style-type: none;
 }
+
+/* ===============END Header attributes============================= */
