@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    id="svg16"
    version="1.1"
-   viewBox="0 0 5.2916665 5.2916668"
-   height="20"
-   width="20">
+   viewBox="0 0 8.4506983 8.0627253"
+   height="30.473291"
+   width="31.939648">
   <title
      id="title3871">icon</title>
   <defs
@@ -27,7 +27,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-291.70832)"
+     transform="matrix(1.6534904,0,0,1.6258377,-0.04881409,-474.75146)"
      id="layer1">
     <g
        id="g3869">
@@ -37,7 +37,7 @@
          cy="295.13651"
          rx="1.8512698"
          ry="1.8268305"
-         style="stroke-width:0.41589874;fill:#ffff00" />
+         style="fill:#ffff00;stroke-width:0.41589874" />
       <g
          id="g3846">
         <g

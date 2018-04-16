@@ -5,6 +5,11 @@
   margin: 0;
 }
 
+a{  
+  color: #c0d8af;   
+}
+
+
 /*==============================================================*/
 
 
@@ -17,7 +22,7 @@ body{
 .header-atr{
     background-image: url("../images/bg2.png");
     background-repeat: repeat-x repeat-y;
-    position: sticky;
+    position: fixed;
     z-index: 1020;
   }
 
@@ -58,5 +63,26 @@ nav ul{
 /* =============== main attributes ================================= */
 
 .top-pics{
-  height: auto;
+  height: 200px;
   }
+/* =============== END main attributes ============================= */
+
+/* =============== footer attributes =============================== */
+.footer-atr{
+  color: #c0d8af;
+  font-family: 'PT Mono', monospace;
+  background-image: url("../images/bg2.png");
+  background-repeat: repeat-x repeat-y;  
+}
+/* =============== END footer attributes =========================== */
+
+
+/* =============== tabs ================= */
+.nav-link img{
+  height: 100px;
+  width: 200px;
+}
+.nav-link{
+  background-image: url("../images/bg2.png");
+  background-repeat: repeat-x repeat-y;
+}
