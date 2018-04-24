@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg16"
+   version="1.1"
+   viewBox="0 0 8.4506983 8.0627253"
+   height="30.473291"
+   width="31.939648">
+  <title
+     id="title3871">icon</title>
+  <defs
+     id="defs10" />
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>icon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="matrix(1.6534904,0,0,1.6258377,-0.04881409,-474.75146)"
+     id="layer1">
+    <g
+       id="g3869">
+      <ellipse
+         id="path18"
+         cx="2.608885"
+         cy="295.13651"
+         rx="1.8512698"
+         ry="1.8268305"
+         style="fill:#ffff00;stroke-width:0.41589874" />
+      <g
+         id="g3846">
+        <g
+           id="g3825">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1.075285,295.387 c -1.40480094,-0.71016 -0.24488327,-2.51473 -0.0855376,-2.63944"
+             id="path53" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 4.2768608,295.37478 c 1.0696805,-0.0712 0.7193056,-1.97197 -0.085537,-2.77385"
+             id="path55" />
+          <g
+             id="g25">
+            <g
+               id="g49">
+              <ellipse
+                 style="fill:#000000;stroke-width:0.42305192"
+                 id="path20"
+                 cx="1.9795758"
+                 cy="294.80661"
+                 rx="0.34214884"
+                 ry="0.44601548" />
+              <ellipse
+                 ry="0.44601548"
+                 rx="0.34214884"
+                 cy="294.7944"
+                 cx="3.2015359"
+                 id="ellipse36"
+                 style="fill:#000000;stroke-width:0.42305192" />
+              <path
+                 id="path40"
+                 d="m 1.8940383,295.79025 c 0.2810509,0.84315 1.5641091,0.37882 1.5641091,0.37882"
+                 style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(0.93919962,-0.14539578,0.15298584,0.98822838,-44.749935,5.334965)"
+           id="g3816">
+          <g
+             id="g3782">
+            <rect
+               y="290.91461"
+               x="0.73317611"
+               height="0.53766251"
+               width="4.9122796"
+               id="rect3760"
+               style="fill:#d4aa00;stroke-width:0.26458332" />
+            <path
+               id="path3762"
+               d="m 0.73328857,290.91457 -0.243396,0.13746 -0.24339599,0.13798 0.24081218,0.14159 0.24586736,0.12067 0.0158583,-0.25202 z"
+               style="fill:#d4aa00;stroke-width:0.26458332" />
+          </g>
+          <path
+             style="fill:#000000;stroke-width:0.26458332"
+             id="path3784"
+             d="m 0.24649659,291.18999 0.0884882,-0.0338 0.0884882,-0.0338 -0.0149659,0.0935 -0.0149659,0.0935 -0.0735223,-0.0597 z"
+             transform="rotate(-8.2,0.24660634,291.19)" />
+          <rect
+             style="fill:#554400;stroke-width:0.13839342"
+             id="rect3786"
+             width="4.9122796"
+             height="0.034269691"
+             x="0.73317611"
+             y="290.91461" />
+          <rect
+             y="290.94888"
+             x="0.73317611"
+             height="0.49292356"
+             width="4.9122796"
+             id="rect3788"
+             style="fill:#ffcc00;stroke-width:0.52486801" />
+          <rect
+             y="291.07272"
+             x="0.73101598"
+             height="0.034269691"
+             width="4.9122796"
+             id="rect3790"
+             style="fill:#554400;stroke-width:0.13839342" />
+          <rect
+             y="291.2435"
+             x="0.73317611"
+             height="0.034269691"
+             width="4.9122796"
+             id="rect3796"
+             style="fill:#554400;stroke-width:0.13839342" />
+          <ellipse
+             style="fill:#ffcc00;stroke-width:0.26458332"
+             id="path3800"
+             cx="0.76448882"
+             cy="290.98752"
+             rx="0.031312741"
+             ry="0.038622767" />
+          <rect
+             style="fill:#554400;stroke-width:0.13839342"
+             id="rect3804"
+             width="4.9122796"
+             height="0.034269691"
+             x="0.73317611"
+             y="291.418" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
