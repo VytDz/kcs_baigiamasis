@@ -4,19 +4,19 @@
     <nav class="col-md-5 mt-3 float-left">
         <ul class="row mt-3.3">
             <li class="mx-2">
-              <a href="html/contests.html">Contests</a>
+              <a href="pages/contests.php">Contests</a>
             </li>
             <li class="mx-2">
-              <a href="html/artist_portfolios.html">Artist portfolios</a>
+              <a href="pages/artist_portfolios.php">Artist portfolios</a>
             </li>
             <li class="mx-2">
-              <a href="html/tutorials.html">Tutorials</a>
+              <a href="pages/tutorials.php">Tutorials</a>
             </li>
             <li class="mx-2">
-              <a href="html/job_offers.html">Job offers</a>
+              <a href="pages/job_offers.php">Job offers</a>
             </li>
             <li class="mx-2">
-              <a href="html/about.html">About</a>
+              <a href="pages/about.php">About</a>
             </li>
         </ul><!-- === END row === -->
     </nav>
@@ -32,7 +32,8 @@
         <form class="form-inline">
             <input type="text" class="search-bar" placeholder="Sign in">
             <button type="submit" class = "btn btn-sm  btn-outline-success"  >Sign In</button>
-            <button type="submit" class = "btn btn-sm  btn-outline-success">Sign Up</button>
+            <!-- <button type="submit" class = "btn btn-sm  btn-outline-success"> ?>Sign Up</button> -->
+            <a href="registrationForm/regForm.php" class = "btn btn-sm  btn-outline-success">Sign Up</a>
         </form>
     </nav>
     <!-- ==== home button  -->

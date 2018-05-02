@@ -1,0 +1,11 @@
+CREATE TABLE users (
+  id INT(6)  AUTO_INCREMENT  PRIMARY KEY ,
+  username VARCHAR(100) NOT NULL,
+  userPwd VARCHAR(100) NOT NULL,
+  avatar VARCHAR(100) NOT NULL,
+  email VARCHAR(100) NOT NULL,
+  name VARCHAR(100),
+  lname VARCHAR(100),
+  dateOfCreation DATETIME,
+  lastSeen DATETIME
+);
