@@ -15,26 +15,35 @@
       <div class="wrapper row" >
           <main class="col-md">
             <h2>Artist Portfolios</h2>
-              <div class="row">
-                      <a class="col-md mx-1 width-15" href="images/">
-                          <img class="img-fluid" src="../images/top_pics/3.jpg" alt="monthly pick" >
-                      </a>
-                      <a class="col-md mx-1 width-15" href="./images/">
-                          <img class="img-fluid" src="../images/top_pics/3.jpg" alt="monthly pick" >
-                      </a>
-                      <a class="col-md mx-1 width-15" href="./images/">
-                          <img class="img-fluid " src="../images/top_pics/3.jpg" alt="monthly pick" >
-                      </a>
-                      <a class="col-md mx-1 width-15" href="./images/">
-                          <img class="img-fluid" src="../images/top_pics/3.jpg" alt="monthly pick" >
-                      </a>
-                      <a class="col-md mx-1 width-15" href="./images/">
-                          <img class="img-fluid" src="../images/top_pics/3.jpg" alt="monthly pick" >
-                      </a>
-                      <a class="col-md mx-1 width-15" href="./images/">
-                          <img class="img-fluid" src="../images/top_pics/3.jpg" alt="monthly pick" >
-                      </a>
-              </div><!-- === END Row === -->
+            <p class="row generic-text">
+              Artist1
+              <a href="../pageElementsPhp/edit-artist-profiles.php?numeris=1" class="btn btn-outline-success">Edit</a>
+              <a href="../pageElementsPhp/delete-artist-profiles.php?numeris=1" class="btn btn-outline-success">Delete</a>
+            </p>
+            <p class="row generic-text">
+              Artist2
+              <a href="../pageElementsPhp/edit-artist-profiles.php?numeris=3" class="btn btn-outline-success">Edit</a>
+              <a href="../pageElementsPhp/delete-artist-profiles.php?numeris=3" class="btn btn-outline-success">Delete</a>
+            </p>
+            <p class="row generic-text">
+              Artist3
+              <a href="../pageElementsPhp/edit-artist-profiles.php?numeris=4" class="btn btn-outline-success">Edit</a>
+              <a href="../pageElementsPhp/delete-artist-profiles.php?numeris=4" class="btn btn-outline-success">Delete</a>
+            </p>
+            <p class="row generic-text">
+              Artist4
+              <a href="../pageElementsPhp/edit-artist-profiles.php?numeris=5" class="btn btn-outline-success">Edit</a>
+              <a href="../pageElementsPhp/delete-artist-profiles.php?numeris=5" class="btn btn-outline-success">Delete</a>
+
+            </p>
+            <p class="row generic-text">
+              Artist5
+              <a href="../pageElementsPhp/edit-artist-profiles.php?numeris=6" class="btn btn-outline-success">Edit</a>
+              <a href="../pageElementsPhp/delete-artist-profiles.php?numeris=6" class="btn btn-outline-success">Delete</a>
+            </p>
+
+
+
             </main>
       </div><!-- IDEA: === END wrapper === -->
     </div><!-- IDEA: END container -->

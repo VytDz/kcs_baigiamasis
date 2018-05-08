@@ -30,9 +30,11 @@
     <!-- === sign in bar === -->
     <nav class="col-md float-right my-3">
         <form class="form-inline">
-            <input type="text" class="search-bar" placeholder="Sign in">
-            <button type="submit" class = "btn btn-sm  btn-outline-success"  >Sign In</button>
-            <button type="submit" class = "btn btn-sm  btn-outline-success">Sign Up</button>
+            <!-- <input type="text" class="search-bar" placeholder="Sign in"> -->
+            <a href="../pageElementsPhp/loginForm.php" class = "btn btn-sm  btn-outline-success">Log in</a>
+            <!-- <button type="submit" class = "btn btn-sm  btn-outline-success"  >Sign In</button>
+            <button type="submit" class = "btn btn-sm  btn-outline-success">Sign Up</button> -->
+            <a href="../registrationForm/regForm.php" class = "btn btn-sm  btn-outline-success">Sign Up</a>
         </form>
     </nav>
     <!-- ==== home button  -->

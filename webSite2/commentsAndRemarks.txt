@@ -7,4 +7,4 @@ font-family: 'PT Serif', serif;
 font-family: 'Open Sans', sans-serif;
 font-family: 'Gugi', cursive;
 font-family: 'Black Han Sans', sans-serif;// visai grazus paprastas bold fontas
-font-family: 'Oxygen', sans-serif;// paprastas,elegantiskas
+font-family: 'Oxygen', sans-serif;// simple and clean

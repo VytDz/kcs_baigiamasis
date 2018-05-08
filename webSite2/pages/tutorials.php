@@ -12,25 +12,29 @@
       </div>
     <!-- ======================================================= -->
     <div class="container-fluid"> <!-- IDEA: start container -->
-      <div class="wrapper row" >
-          <main class="col-md">
-            <article class="row">
-              aaaa
 
-            </article><!-- IDEA: === END row === -->
-            <article class="row">
-              aaaa
-            </article><!-- IDEA: === END row === -->
-          </main><!-- IDEA: === END main === -->
-          <aside>
-            aaa
+              <h2>  stuff from database...  </h2>
 
-          </aside>
-      </div><!-- IDEA: === END wrapper === -->
+              <?php
+              include_once('../registrationForm/databaseFunctions_comments.php');
+
+              $comments = getComments();
+
+                while ( $comment = mysqli_fetch_assoc($comments)  ) {
+                    echo "<h2>".$comment['username']."</h2>", "<br />", "<p class = 'generic-text'>".$comment['comment']."</p>","<br />";
+                  }
+              ?>
+
+              <div class="">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/LtsG5eAZj0c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+              </div>
+
+
+
     </div><!-- IDEA: END container -->
 
 
-    
+
     <?php require_once('../pageElementsPhp/footer.php') ?>
 
 
